@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+# Junqi Chen's Personal website
+Hi, I am Junqi Chen, a first year graduate student in School of Information, University of Michigan.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+## What's new
+

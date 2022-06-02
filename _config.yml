@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
-paginate: 5
+title: Junqi Chen (陈隽淇)
+description: Welcome to Junqi Chen's personal website!
+url: https://cjqcjqhhh.github.io
+avatar: /avatar.jpg
+paginate: 3
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /background.jpg
 
 # Gems
 plugins:
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: cjqcjqhhh
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Junqi Chen
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/cjqcjqhhh
+    - https://github.com/cjqcjqhhh
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Junqi Chen
+  url: https://github.com/cjqcjqhhh/
+  email: junqich@umich.edu

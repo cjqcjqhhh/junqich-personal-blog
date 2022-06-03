@@ -6,6 +6,6 @@ tags: []
 toc:  true
 ---
 
-# Welcome
+# Welcome to my personal website
 
-This is a test post for my personal website. Welcome!.
+This is a test post for my personal website. Welcome!

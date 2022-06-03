@@ -7,6 +7,6 @@
 - type: page
   title: Portfolio
   url: /portfolio/
-- type: post
-  title: Post
-  url: /post/
+# - type: post
+#   title: Post
+#   url: /post/

@@ -1,9 +1,12 @@
-- type: dates
+- type: page
   title: About
   url: /about/
-- type: none
+- type: page
   title: Experience
   url: /experience/
-- type: none
+- type: page
   title: Portfolio
   url: /portfolio/
+- type: post
+  title: Post
+  url: /post/

@@ -29,11 +29,15 @@ I am Junqi Chen, currently a first-year graduate in School of Information, Unive
 
 ### Undergraduate Excellent Scholarship
 
-2019.10 & 2020.10, Shanghai Jiaotong University (SJTU)
+###### Shanghai Jiaotong University (SJTU)
+
+2019.10 & 2020.10
 
 ### Guanghua Scholarship
 
-2020.11, Shanghai Jiaotong University (SJTU)
+###### Shanghai Jiaotong University (SJTU)
+
+2020.11
 
 
 

@@ -20,7 +20,7 @@ I am Junqi Chen, currently a first-year graduate in School of Information, Unive
 
 2021.09 - 2023.06 (expected)
 
-+ Major: Data Science
++ Major: Data Science / Big Data Analytics
 + GPA: 4.00/4.00
 
 

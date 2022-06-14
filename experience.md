@@ -13,6 +13,8 @@ title: Experience
 
 2021.01 - 2021.06, *UM-SJTU Joint Institute - SJTU*
 
+![test2](imgs/test2.png)
+
 ### Data Communication and Engineering(DCE) Group, Advanced Network Laboratory (ANL)
 
 2020.02 - 2021.06, *School of Electronic and Electrical Engineering - SJTU*

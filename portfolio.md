@@ -6,15 +6,13 @@
 
 2022.05 - 2022.08
 
-<img src="imgs/ve441.gif" alt="441lab" style="zoom:50%;" />
+![ve441](imgs/ve441.gif)
 
 I implemented a simple Chatter app with Kotlin on Android platform.
 
 ## EECS494 - Computer Game Design and Development
 
 2022.02 - 2022.04
-
-[![eecs494](imgs/eecs494.jpg)](https://www.youtube.com/watch?v=BWS21aGWRQA)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BWS21aGWRQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -24,7 +22,7 @@ In this course, we learned the basic game developing techniques with Unity and d
 
 2021.09 - 2022.01
 
-<img src="imgs/si539.png" alt="si539" style="zoom:50%;" />
+![si539](imgs/si539.png)
 
 In this course, I implemented a [Simple Genshin Impact Wiki](https://cjqcjqhhh.github.io/si539-portfolio/index.html) as my final project.
 

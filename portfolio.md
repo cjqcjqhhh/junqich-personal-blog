@@ -6,7 +6,7 @@
 
 2022.05 - 2022.08
 
-![ve441](imgs/ve441.gif){:style="height: 300px; width: auto;"}
+![ve441](imgs/ve441.gif){:style="display: block; max-width: auto; max-height: 300px; width: auto; height: auto;"}
 
 I implemented a simple Chatter app with Kotlin on Android platform.
 
@@ -22,7 +22,13 @@ In this course, we learned the basic game developing techniques with Unity and d
 
 2021.09 - 2022.01
 
-![si539](imgs/si539.png){:style="height: 400px; width: auto;"}
+![si539](imgs/si539.png){:style="
+  display: block;
+  max-width: auto;
+  max-height: 400px;
+  width: auto;
+  height: auto;"
+}
 
 In this course, I implemented a [Simple Genshin Impact Wiki](https://cjqcjqhhh.github.io/si539-portfolio/index.html) as my final project.
 

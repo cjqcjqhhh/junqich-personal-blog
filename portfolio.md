@@ -22,7 +22,7 @@ In this course, we learned the basic game developing techniques with Unity and d
 
 2021.09 - 2022.01
 
-![si539](imgs/si539-1.png){:style="height: 400px;"} ![si539](imgs/si539-2.png){:style="height: 400px;"} 
+![si539](imgs/si539.png){:style="height: 400px;"}
 
 In this course, I implemented a [Simple Genshin Impact Wiki](https://cjqcjqhhh.github.io/si539-portfolio/index.html) as my final project.
 
